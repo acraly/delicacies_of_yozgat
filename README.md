@@ -1,2 +1,2 @@
 # delicacies_of_yozgat
-delicaciesofyozgat66.netlify.app
+https://delicaciesofyozgat66.netlify.app/
